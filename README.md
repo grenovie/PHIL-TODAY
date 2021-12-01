@@ -1,6 +1,6 @@
 # PHIL-TODAY
 
-Simple overview of use/purpose.
+A News-Weather Application that can provide a real-time information to its user everyday!
 
 ## Description
 
