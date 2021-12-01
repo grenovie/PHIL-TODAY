@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Phil-Today",
+    "slug": "PhilToday",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/PTicon2.png",
+    "splash": {
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/PTicon2.png"
+      },
+      "package": "com.grenovie.PhilToday",
+      "versionCode": 3
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "FINAL"
+  }
+}
