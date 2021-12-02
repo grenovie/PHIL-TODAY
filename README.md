@@ -4,59 +4,57 @@ A News-Weather Application that can provide a real-time information to its user 
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+PHIL-TODAY is the name of the application written in React Native, a framework based on React JS, intended for direct use developing mobile applications. 
 
 ## Getting Started
 
-### Dependencies
+### Requirements
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Install Visual Studio Code
+* Install Node.js LTS version
+* Register at EXPO https://expo.dev
+* Windows 7,8,10
+* 4GB Memory
 
-### Installing
+### Executing the Program
+### If Using Expo CLI to run:
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
-### Executing program
-
-* How to run the program
-* Step-by-step bullets
+* run in the Terminal when LAN
 ```
-code blocks for commands
+expo start --lan
 ```
-
-## Help
-
-Any advise for common problems or issues.
+* run in the Terminal when TUNNEL; Tunnel is when you want your other friends outside of your LAN run the program
 ```
-command to run if program contains helper info
+expo start --tunnel
 ```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ * Grenovie Elumir 
+ [@kopikogre](https://www.facebook.com/kopikogre)
+  * Zandro Verona 
+ [@dro](https://www.facebook.com/ZandroCraft)
+  * Zander Verona 
+ [@der](https://www.facebook.com/Miraiii05)
+  * Cyril Joseph Bacia
+ [@bacia](https://www.facebook.com/joseph.bacia)
+  * Robert San Pring 
+ [@pring](https://www.facebook.com/robertsan.pring)
+  * Dranreb Serrano 
+ [@serrano](https://www.facebook.com/Ftamasterblaster)
 
 ## Version History
 
 * 0.2
     * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
 * 0.1
     * Initial Release
 
-## License
-
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+* [Piyush Agarwal (Roadside Coder](https://github.com/piyush-eon/react-native-news-app)
+
