@@ -56,5 +56,5 @@ Contributors names and contact info
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Piyush Agarwal (Roadside Coder](https://github.com/piyush-eon/react-native-news-app)
+* [Piyush Agarwal (Roadside Coder)](https://github.com/piyush-eon/react-native-news-app)
 
